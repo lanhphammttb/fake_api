@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/olympus/v1/utils/games",
+      "dest": "/api/games.js"
+    }
+  ]
+} 
